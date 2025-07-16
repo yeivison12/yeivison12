@@ -30,7 +30,7 @@ Actualmente busco oportunidades donde pueda crecer profesionalmente y aplicar mi
 
 ### Backend / Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 
 ### Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
