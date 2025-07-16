@@ -1,3 +1,4 @@
+<img aling="center" src="https://i.ibb.co/1RvK4ZG/unnamed.jpg style="border-radius:50%"width="100px" </img>
 <h1 align="center">👋 ¡Hola! Soy Yeivison García</h1>
 
 <p align="center">
@@ -70,4 +71,3 @@ Actualmente busco oportunidades donde pueda crecer profesionalmente y aplicar mi
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=gruvbox" alt="Streak"/>
 </p>
-
