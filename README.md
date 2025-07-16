@@ -70,7 +70,7 @@ Actualmente busco oportunidades donde pueda crecer profesionalmente y aplicar mi
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=gruvbox" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yeivison12&show_icons=true&theme=gruvbox" alt="Stats"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=gruvbox" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yeivison12&theme=gruvbox" alt="Streak"/>
 </p>
