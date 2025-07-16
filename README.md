@@ -1,4 +1,4 @@
-<img aling="center" src="https://i.ibb.co/1RvK4ZG/unnamed.jpg style="border-radius:50%"width="100px" </img>
+<img aling="center" src="https://i.ibb.co/1RvK4ZG/unnamed.jpg"/>
 <h1 align="center">👋 ¡Hola! Soy Yeivison García</h1>
 
 <p align="center">
