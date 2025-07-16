@@ -57,10 +57,10 @@ Actualmente busco oportunidades donde pueda crecer profesionalmente y aplicar mi
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:tucorreo@ejemplo.com">
+  <a href="mailto:el12mejor@outlook.com">
     <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico"/>
   </a>
-  <a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/yeivison-rodr%C3%ADguez-garc%C3%ADa-407bb91ab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
