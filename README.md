@@ -43,7 +43,7 @@ Actualmente busco oportunidades donde pueda crecer profesionalmente y aplicar mi
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
+<!-- 
 ## 🚀 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
@@ -53,7 +53,7 @@ Actualmente busco oportunidades donde pueda crecer profesionalmente y aplicar mi
 | 📊 **Panel administrativo Django** | Sistema con autenticación, roles y generación de PDF con WeasyPrint | Django, Bootstrap, PostgreSQL |
 
 ---
-
+-->
 ## 📫 Contacto
 
 <p align="center">
